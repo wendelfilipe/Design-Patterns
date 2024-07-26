@@ -1,0 +1,14 @@
+/home/wendel/Documentos/Estudos/DesignPatternsC#/bin/Debug/net8.0/DesignPatternsC#
+/home/wendel/Documentos/Estudos/DesignPatternsC#/bin/Debug/net8.0/DesignPatternsC#.deps.json
+/home/wendel/Documentos/Estudos/DesignPatternsC#/bin/Debug/net8.0/DesignPatternsC#.runtimeconfig.json
+/home/wendel/Documentos/Estudos/DesignPatternsC#/bin/Debug/net8.0/DesignPatternsC#.dll
+/home/wendel/Documentos/Estudos/DesignPatternsC#/bin/Debug/net8.0/DesignPatternsC#.pdb
+/home/wendel/Documentos/Estudos/DesignPatternsC#/obj/Debug/net8.0/DesignPatternsC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/wendel/Documentos/Estudos/DesignPatternsC#/obj/Debug/net8.0/DesignPatternsC#.AssemblyInfoInputs.cache
+/home/wendel/Documentos/Estudos/DesignPatternsC#/obj/Debug/net8.0/DesignPatternsC#.AssemblyInfo.cs
+/home/wendel/Documentos/Estudos/DesignPatternsC#/obj/Debug/net8.0/DesignPatternsC#.csproj.CoreCompileInputs.cache
+/home/wendel/Documentos/Estudos/DesignPatternsC#/obj/Debug/net8.0/DesignPatternsC#.dll
+/home/wendel/Documentos/Estudos/DesignPatternsC#/obj/Debug/net8.0/refint/DesignPatternsC#.dll
+/home/wendel/Documentos/Estudos/DesignPatternsC#/obj/Debug/net8.0/DesignPatternsC#.pdb
+/home/wendel/Documentos/Estudos/DesignPatternsC#/obj/Debug/net8.0/DesignPatternsC#.genruntimeconfig.cache
+/home/wendel/Documentos/Estudos/DesignPatternsC#/obj/Debug/net8.0/ref/DesignPatternsC#.dll
