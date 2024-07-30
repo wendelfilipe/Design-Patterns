@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FluentBuilder")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("StepwiseBuilder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9bda22680cf8c0312d54cf5997f97ab6319d0e7")]
-[assembly: System.Reflection.AssemblyProductAttribute("FluentBuilder")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FluentBuilder")]
+[assembly: System.Reflection.AssemblyProductAttribute("StepwiseBuilder")]
+[assembly: System.Reflection.AssemblyTitleAttribute("StepwiseBuilder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

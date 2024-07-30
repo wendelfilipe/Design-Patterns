@@ -1,0 +1,5 @@
+/home/wendel/Documentos/Estudos/DesignPatternsC#/StepwiseBuilder/obj/Debug/net8.0/StepwiseBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/wendel/Documentos/Estudos/DesignPatternsC#/StepwiseBuilder/obj/Debug/net8.0/StepwiseBuilder.AssemblyInfoInputs.cache
+/home/wendel/Documentos/Estudos/DesignPatternsC#/StepwiseBuilder/obj/Debug/net8.0/StepwiseBuilder.AssemblyInfo.cs
+/home/wendel/Documentos/Estudos/DesignPatternsC#/StepwiseBuilder/obj/Debug/net8.0/StepwiseBuilder.csproj.CoreCompileInputs.cache
+/home/wendel/Documentos/Estudos/DesignPatternsC#/StepwiseBuilder/obj/Debug/net8.0/StepwiseBuilder.sourcelink.json
