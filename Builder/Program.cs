@@ -23,8 +23,7 @@ sb.Append("</ul>");
 Console.WriteLine(sb);
 
 var builder = new HtmlBulder("ul");
-builder.AddChild("li", "hello");
-builder.AddChild("li", "world");
+builder.AddChild("li", "hello").AddChild("li", "world");
 Console.WriteLine(builder.ToString());
 
 public class HtmlElement
@@ -82,10 +81,11 @@ public class HtmlBulder
         root.Name = rootName;
     }
 
-    public void AddChild(string childName, string childText)
+    public HtmlBulder AddChild(string childName, string childText)
     {
         var e = new HtmlElement(childName, childText);
         root.Elements.Add(e);
+        return this;
     }
 
     public override string ToString()

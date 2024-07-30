@@ -1,0 +1,15 @@
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/bin/Debug/net8.0/FluentBuilder
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/bin/Debug/net8.0/FluentBuilder.deps.json
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/bin/Debug/net8.0/FluentBuilder.runtimeconfig.json
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/bin/Debug/net8.0/FluentBuilder.dll
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/bin/Debug/net8.0/FluentBuilder.pdb
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/obj/Debug/net8.0/FluentBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/obj/Debug/net8.0/FluentBuilder.AssemblyInfoInputs.cache
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/obj/Debug/net8.0/FluentBuilder.AssemblyInfo.cs
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/obj/Debug/net8.0/FluentBuilder.csproj.CoreCompileInputs.cache
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/obj/Debug/net8.0/FluentBuilder.sourcelink.json
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/obj/Debug/net8.0/FluentBuilder.dll
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/obj/Debug/net8.0/refint/FluentBuilder.dll
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/obj/Debug/net8.0/FluentBuilder.pdb
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/obj/Debug/net8.0/FluentBuilder.genruntimeconfig.cache
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FluentBuilder/obj/Debug/net8.0/ref/FluentBuilder.dll
