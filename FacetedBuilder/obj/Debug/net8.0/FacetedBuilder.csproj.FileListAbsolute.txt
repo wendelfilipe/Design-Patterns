@@ -1,0 +1,5 @@
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FacetedBuilder/obj/Debug/net8.0/FacetedBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FacetedBuilder/obj/Debug/net8.0/FacetedBuilder.AssemblyInfoInputs.cache
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FacetedBuilder/obj/Debug/net8.0/FacetedBuilder.AssemblyInfo.cs
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FacetedBuilder/obj/Debug/net8.0/FacetedBuilder.csproj.CoreCompileInputs.cache
+/home/wendel/Documentos/Estudos/DesignPatternsC#/FacetedBuilder/obj/Debug/net8.0/FacetedBuilder.sourcelink.json
